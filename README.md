@@ -30,7 +30,7 @@ The game features a fully interactive chessboard, move validation, visual move h
 ├── res/
 │   ├── pieces.png       # Sprite sheet for chess pieces
 │   ├── board.png        # Chess board image
-│   └── chess\_icon.png   # Window/icon image
+│   └── chess_icon.png   # Window/icon image
 
 ````
 
