@@ -1,32 +1,13 @@
 🤖♟️ Python Chess Game with AI (Pygame)
 A single-player chess game built in Python using Pygame, where you can play against a basic AI opponent. The game features an interactive chessboard, legal move validation, move highlighting, and automated moves by the computer.
 
-This project is a modification of a full-featured PvP chess system, redesigned for human vs computer gameplay.
-
-📸 Preview
-(Insert screenshots if available)
-
 🎮 Features
-🎯 Play against a basic AI (random-move based or rule-based)
-
+🎯 Play against a basic AI 
 ♟️ All standard chess pieces and moves implemented
-
 🔁 Turn-based: Player (White) vs AI (Black)
-
 🟩 Highlighted valid moves for selected pieces
-
 ⚔️ Captures and king win detection
-
 🧠 Modular design with Chess, AI, Utils, and Piece classes
-
-💡 How the AI Works
-The AI currently uses one of the following (depending on your implementation):
-Random-move AI – selects randomly from all legal moves
-(or)
-Greedy AI – prioritizes capturing high-value pieces
-(optional)
-MiniMax (WIP) – for smarter, depth-based decision making (to be added)
-
 
 📂 Project Structure
 .
@@ -50,7 +31,7 @@ MiniMax (WIP) – for smarter, depth-based decision making (to be added)
 
 👨‍💻 Author
 Behramm Umrigar
-GitHub: @behramm
+GitHub: @behramm10
 
 📜 License
 This project is open source and available under the MIT License.
